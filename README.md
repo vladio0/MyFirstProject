@@ -28,3 +28,6 @@ git clone https://github.com/vladio0/MyFirstProject.git
 обрати папку у якій запустити
 
 "Clone"
+
+
+Блок фронтенду у папці resources -> templates -> index.html
